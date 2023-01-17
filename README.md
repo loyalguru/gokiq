@@ -1,4 +1,4 @@
-# Gokiq [![Build Status](https://travis-ci.org/DuoSRX/gokiq.svg?branch=master)](https://travis-ci.org/DuoSRX/gokiq)
+# Gokiq
 
 Gokiq is a small library to easily enqueue Sidekiq jobs from Go.
 
